@@ -9,6 +9,7 @@ cd email-checker
 npm install 
 node index.js
 ```
+Keep in mind that ISPs block it, so u have to deploy it somewhere
 
 # Usage
 ```
